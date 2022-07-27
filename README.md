@@ -48,7 +48,7 @@ There wasn't so new for me because I studied HTML and CSS before. However, the c
 ![HTML](/task_html_css_intro/image-1.jpg)
 ![CSS](/task_html_css_intro/image-2.jpg)
 
-</detatils>
+</details>
 
 ## Responsive Web Design
 
