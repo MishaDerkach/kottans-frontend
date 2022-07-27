@@ -49,3 +49,15 @@ There wasn't so new for me because I studied HTML and CSS before. However, the c
 ![CSS](/task_html_css_intro/image-2.jpg)
 
 </detatils>
+
+## Responsive Web Design
+
+This module was very useful for me. Creating a responsive website isn’t a complete mobile strategy, and won’t answer every brief, but, especially if you are starting a website from scratch, you should consider it as a very serious option.
+
+<details>
+<summary>Responsive Web Design</summary>
+
+![Flexbox Froggy](/task_responsive_web_design/image-1.png)
+![Grid Garden](/task_responsive_web_design/image-2.png)
+
+</details>
